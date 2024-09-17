@@ -1,0 +1,39 @@
+        body{
+    background-image:url(image/heart.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    opacity: 1;
+        }
+
+        #MT{
+            font-size: 100px;
+            color: white;
+            text-shadow: 2px 2px 4px #000000;
+            font-size: 72px;
+            margin-left: 390px;
+            font-family:serif;
+            position: absolute;
+        }
+
+        .description{
+            font-size: 30px;
+            text-align: justify;
+            color:white;
+            text-shadow: 1px 1px 3px #000000;
+            font-family:serif;
+            padding-top:180px;
+            margin-right:610px;
+            margin-left: 150px;
+        }
+
+        #footer{
+           font-size: 15px;
+           text-align: center;
+           margin-top: 180px;
+           margin-left: 0px;
+           color:black;
+           text-shadow: 2px 2px 4px #000000;
+           background-color: blanchedalmond;
+        }
